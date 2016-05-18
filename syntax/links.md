@@ -35,21 +35,21 @@ Then, anywhere in the document, you define your link label like this, on a line 
 
 ---
 
-Here's a quiz about markdown links.
+Voici un quiz sur les liens Markdown.
 
-Select the valid links:
-- [x] `[a link](http://google.fr)`
-- [ ] `(a link)[http://google.fr]`
+Choisi les bons liens:
+- [x] `[un lien](http://google.fr)`
+- [ ] `(un lien)[http://google.fr]`
 
-> The link text is delimited by [square brackets].
+> Le texte lien est delimité par [des crochets].
 
-What are the correct informations from this link: ```[a link](http://google.fr "google")```
-- [ ] the link is https://google.fr
-- [x] the title of the link is "google"
-- [ ] it'll show the text "google"
-- [x] it'll show the text "a link"
+Quelles sont les informations correctes venant de ces liens ```[un lien](http://google.fr "google")``` 
+- [ ] le lien est https://google.fr
+- [x] le titre du lien est "google"
+- [ ] cela ecrira "google"
+- [x] cela ecrira "un lien"
 
-> Links can have 3 parts: the text, the url and a title.
+>Les liens peuvent avoir 3 parties: le texte, l'url, et un titre.
 
 ---
 
